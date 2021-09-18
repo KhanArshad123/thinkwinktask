@@ -1,0 +1,81 @@
+form {
+    border: 3px solid #f1f1f1;
+  }
+  
+  /* Full-width inputs */
+  .input{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  .nav {
+    overflow: hidden;
+    color: hsl(0, 100%, 1%);
+       text-align: left;
+    padding: 20px 10px;
+  }
+  .inputF{
+    margin: 15px;
+    margin-top: 20px;
+  }
+  .row{
+    vertical-align: baseline;
+  }
+  .header {
+    overflow: hidden;
+    color: #c93b3b;
+    background-color: #79d8a8;
+    display: flex;
+    padding: 20px 10px;
+  }
+  
+  /* Set a style for all buttons */
+  .button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+  .submit{
+    width: 50%;
+    background-color: #133357;
+    color: white;
+    padding: 14px 20px;
+    margin: auto;
+    text-align:center;
+    border: none;
+    margin: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .submit1{
+    width: 150px;
+    background-color:white;
+    color:  #133357;
+    padding: 14px 20px;
+    margin: auto;
+    text-align:center;
+    border: none;
+    margin: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* Add a hover effect for buttons */
+  button:hover {
+    opacity: 0.8;
+  }
+  .container {
+    padding: 16px;
+    width: 50%;
+    height: fit-content;
+    margin: auto;
+    margin-top: 40px;
+    background-color: #7f9ea7;
+  }
